@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(102, 67, 255);
+    padding: 50PX 30PX;
+}
+
+h1{
+    
+   color: #ffffff;
+   }
+
+.cajamedio{
+    
+    text-align: center;
+    width: 30%;
+    height: 350px;
+    background-color: #5b21fa;
+    margin: auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 20px rgba(0, 0, 0, 00.2%);
+    border-radius: 4px;
+    padding: 50PX 30PX;
+    
+}
+
+.items{
+    margin-bottom: 15PX;
+    width: 75%;
+    height: 40px;
+   
+   
+}
+
+.login{
+    font-size: larger;
+    font-weight: bolder;
+    width: 80%;
+    height: 55px;
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    color: #ffffff;
+}
